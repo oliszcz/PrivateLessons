@@ -1,0 +1,11 @@
+.vs/
+PrivateLessons.Api/.vs/
+PrivateLessons.Api/bin/
+PrivateLessons.Api/obj/
+PrivateLessons.Core/.vs
+PrivateLessons.Core/bin/
+PrivateLessons.Core/obj/
+PrivateLessons.Infrastructure/bin/
+PrivateLessons.Infrastructure/obj/
+PrivateLessons.Tests/bin/
+PrivateLessons.Tests/obj/
